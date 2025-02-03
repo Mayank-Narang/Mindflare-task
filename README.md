@@ -2,7 +2,7 @@
 
 This is the portfolio website I created to showcase my work, skills, and projects. It is built using React and Vite for fast development and smooth performance.
 
-![Portfolio Screenshot](./ss.jpg)
+![Portfolio Screenshot](./ss.png)
 
 ## Features
 - Displays a detailed overview of my projects and skills.
