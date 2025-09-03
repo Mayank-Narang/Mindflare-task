@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
         I'm a FullStack developer with a passion for solving algorithmic challenges on LeetCode and developing decentralized applications using web 3. With about 1000 problems solved and ranking in the top 5.4% globally, I'm always improving my skills. 
         </p>
-        <a href="mailto:mayankcodez@email.com" className={styles.contactBtn}>
+        <a href="mailto:mayankcodez@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
