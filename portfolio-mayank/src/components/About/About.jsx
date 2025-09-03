@@ -12,11 +12,10 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3 style={{ color:"white" }}>Frontend Developer</h3>
+              <h3 style={{ color:"white" }}>FullStack Developer</h3>
               <p style={{ color:"white" }}>
-                I'm a frontend developer with experience in building responsive
-                and optimized web applications. I have strong skills in HTML, CSS,
-                JavaScript, and React, focusing on creating interactive and user-friendly
+                I'm a fullstack developer with experience in building responsive
+                and optimized web applications. I have strong skills in PERN/MERN, focusing on creating interactive and user-friendly
                 interfaces.
               </p>
             </div>
@@ -26,7 +25,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3 style={{ color:"white" }}>LeetCoder</h3>
               <p style={{ color:"white" }}>
-                I have solved 650+ problems on LeetCode, ranking in the top 6% globally.
+                I have about 1000 problems on LeetCode, ranking in the top 5.4% globally.
                 I am passionate about solving algorithmic challenges and improving my
                 problem-solving skills. I regularly participate in contests and aim to
                 further enhance my data structures and algorithms knowledge.
